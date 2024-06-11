@@ -1,7 +1,7 @@
 # Logo-Generator
 
   ## Description
-  This project uses inquirer to obtain user input and uses the input to generate a Logo with Scalable Vector Graphics (SVG). The application runs on the terminal and prompts users to select a shape, a shape color, text, and text color. The application will then use Javascript to assign the collected data to shape class attributes and later interpolate the data on a SVG file using the File System writeFile method.  [User Walkthrough](https://drive.google.com/file/d/1jg-K9PkYqYtsSe_Gie8CTBDBXivhv6U7/view?usp=sharing)
+  This project uses inquirer to obtain user input and uses the input to generate a Logo with Scalable Vector Graphics (SVG). The application runs on the terminal and prompts users to select a shape, a shape color, text, and text color. The application will then use Javascript to assign the collected data to shape class attributes and later interpolate the data on a SVG file using the File System writeFile method.  [User Walkthrough](https://drive.google.com/file/d/1lhuJ-VMa9HMFQb3InngUJanWV-kz_AgF/view?usp=sharing)
 
   ## Table of Contents
   no
